@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a Fellow at General Assembly.
-- 🌱 I’m am working on a full stack apps.
+- 🌱 I’m am working on full stack apps.
 - 💬 Ask me about cloud infrastructure engineering.
 - 📫 https://www.linkedin.com/in/shaynevaykovich/
 - 😄 Pronouns: H/H
