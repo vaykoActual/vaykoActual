@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a Fellow at General Assembly.
+- 🔭 I’m currently seeking new roles
 - 🌱 I’m am working on full stack apps.
-- 💬 Ask me about cloud infrastructure engineering.
+- 💬 I am a Fellow at General Assembly.
 - 📫 https://www.linkedin.com/in/shaynevaykovich/
 - 😄 Pronouns: H/H
-- ⚡ Fun fact: I'm Canadian!
+- ⚡ Fun fact: My dogs name is Ruby!
 
